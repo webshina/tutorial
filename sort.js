@@ -11,4 +11,4 @@ var sortNumber = function (number) {
  sortNumber(number);
  console.log(number);
 
- console.log(1);
+ console.log(2);
